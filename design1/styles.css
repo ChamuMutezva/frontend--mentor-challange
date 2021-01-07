@@ -65,6 +65,9 @@ h1 {
         position: relative;
         margin-left: 18%;
     }
+    .main {
+        overflow: hidden;
+    }
 }
 
 .socialmediafans {
